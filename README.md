@@ -1,4 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Technology used
+-Next 14
+-Typescript
+-Tailwind CSS
+-Shadcn
+-RTK Query
+-Redux
+
 
 ## Getting Started
 
