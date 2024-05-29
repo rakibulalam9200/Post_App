@@ -1,10 +1,12 @@
 ## Technology used
+```bash
 -Next 14
 -Typescript
 -Tailwind CSS
 -Shadcn
 -RTK Query
 -Redux
+```
 
 
 ## Getting Started
